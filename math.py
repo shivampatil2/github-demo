@@ -12,4 +12,4 @@ def multiply(x,y):
 
 # divide implementation
 def divide(x,y):
-    pass
+    return x/y             # on remote main
